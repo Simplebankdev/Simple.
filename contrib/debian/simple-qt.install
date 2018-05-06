@@ -1,0 +1,6 @@
+usr/local/bin/simple-qt usr/bin
+share/pixmaps/simple32.xpm usr/share/pixmaps
+share/pixmaps/simple16.xpm usr/share/pixmaps
+share/pixmaps/simple128.png usr/share/pixmaps
+debian/simple-qt.desktop usr/share/applications
+debian/simple-qt.protocol usr/share/kde4/services/

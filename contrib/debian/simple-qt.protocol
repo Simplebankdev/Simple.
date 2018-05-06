@@ -1,0 +1,11 @@
+[Protocol]
+exec=simple-qt '%u'
+protocol=simple
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
