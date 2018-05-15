@@ -3,7 +3,7 @@
 
 # SimpleBank 
 
-**Name :** Simple.
+**Name :** SimpleBank
 
 **Ticker :** SPLB
 
