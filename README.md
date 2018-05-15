@@ -31,7 +31,7 @@ __________________________________________________________________________
 
 #### Open Source
 
-Simple. obey to the Open-source principle. The SPLB code on is publicly display on Github.
+Simple. obey to the Open-source principle. The SPLB code on is publicly avaible on Github.
 
 #### High Security
 
@@ -70,4 +70,4 @@ __________________________________________________________________________
 ##### Nvidia Miner - https://github.com/KlausT/ccminer/releases 
 ##### Wallet - https://github.com/Simplebankdev/Simple./releases 
 ##### Explorer - http://explorer.simplebank.io/ 
-##### Masternode scrypt and guide - https://github.com/Simplebankdev/simplevps
+##### Masternode script and guide - https://github.com/Simplebankdev/simplevps
