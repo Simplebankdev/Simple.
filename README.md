@@ -31,11 +31,11 @@ __________________________________________________________________________
 
 #### Open Source
 
-SimpleBank obey to the Open-source principle. The SPLB code on is publicly avaible on Github.
+Simple. obey to the Open-source principle. The SPLB code on is publicly avaible on Github.
 
 #### High Security
 
-SimpleBank is designed to be fast, secure and private. Based on Neoscrypt algorithm, transactions are confirm by a P2P GPU network sharing hashrate over the globe.
+Simple. is designed to be fast, secure and private. Based on Neoscrypt algorithm, transactions are confirm by a P2P GPU network sharing hashrate over the globe.
 
 #### Anonymous
 
@@ -59,7 +59,7 @@ Masternodes enable support for PrivateSend and InstantSend and help to keep inte
 
 #### Air drop
 
-Multiple airdrop campaigns will be scheduled to rewards SimpleBank community.
+Multiple airdrop campaigns will be scheduled to rewards Simple community.
 
 __________________________________________________________________________
 
